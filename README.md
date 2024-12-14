@@ -5,7 +5,7 @@
 | Nguyễn Tiến Khôi | 22022658     | 
 | Nguyễn Minh Hiếu   | 22022609     | 
 | Tống Duy Tân   | 22022538     | 
-| Bùi Văn Khải | 2202xxxx     |
+| Bùi Văn Khải | 22022574     |
 | Nguyễn Quốc Tuấn | 22022553     |  
 
 # Models 
